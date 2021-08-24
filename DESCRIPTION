@@ -1,15 +1,14 @@
 Package: sgholidays
-Title: What the Package Does (One Line, Title Case)
+Title: Data and functions to deal with holidays in Singapore 
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Tse Lert",
+           family = "Chua",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+           email = "tselert@hotmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0003-3416-1032"))
+Description: Built-in data of Singapore's gazetted public holidays since 2008. And functions to deal with holidays in Singapore (in development). 
+License: `MIT + file LICENCE`
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)

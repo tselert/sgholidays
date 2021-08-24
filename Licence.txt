@@ -1,0 +1,4 @@
+# LICENCE
+
+YEAR: 2021
+COPYRIGHT HOLDER: Chua Tse Lert
