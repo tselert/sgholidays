@@ -6,8 +6,9 @@ library(stringr)
 
 sgph <- fread("./data-raw/Singapore PH.csv") 
 
-sgph[, `:=`(PublicHolidayName = str_trim(PublicHolidayName), 
-            Date = dmy(Date))]
+sgph[, `:=`(holiday.name = str_trim(holiday.name), 
+            date = dmy(date))]
 
 usethis::use_data(sgph, overwrite = TRUE)
+
 

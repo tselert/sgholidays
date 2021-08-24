@@ -15,7 +15,11 @@
 #'  9. Deepavali (1d) 
 #' 10. Christmas Day (1d)
 #' 
-#' In addition, Polling Day is also a public holiday for Presidential Election and General Elections 
+#' In addition, Polling Day is also a public holiday for Presidential Election and 
+#' General Elections (not including by-elections)
+#' 
+#' SG50 Public Holiday was declared a special holiday on 7 August 2015 to mark the nation's 
+#' 50th anniversary of independence. 
 #' 
 #' Fun fact: Singapore scrapped a few holidays in August 1968 to improve productivity.  
 #' 
@@ -32,12 +36,18 @@
 #'
 #' @format A data.table with 2 variables:
 #' \describe{
-#'   \item{PublicHolidayName}{chr Name of public holiday}
-#'   \item{Date}{Date Date of gazetted public holiday}
+#'   \item{holiday.name}{chr Name of public holiday}
+#'   \item{date}{Date Date of gazetted public holiday}
 #' }
-#' @source \url{https://www.mom.gov.sg/employment-practices/public-holidays 
-#' https://www.mom.gov.sg/newsroom/press-releases/2007/singapore-public-holidays-for-the-year-2008 
-#' https://sso.agc.gov.sg/Act/HA1998#Sc-
-#' https://www.mom.gov.sg/employment-practices/public-holidays-entitlement-and-pay
-#' }
+#' 
+#' @source 
+#' \url{https://www.mom.gov.sg/employment-practices/public-holidays}
+#' 
+#' \url{https://www.mom.gov.sg/newsroom/press-releases/2007/singapore-public-holidays-for-the-year-2008} 
+#' 
+#' @references 
+#' \url{https://sso.agc.gov.sg/Act/HA1998#Sc-}
+#' 
+#' \url{https://www.mom.gov.sg/employment-practices/public-holidays-entitlement-and-pay}
+#' 
 "sgph"

@@ -1,156 +1,171 @@
-PublicHolidayName,Date
-New Year Day,01/01/2008
-Chinese New Year,07/02/2008
-Chinese New Year,08/02/2008
-Good Friday,21/03/2008
-Labour Day,01/05/2008
-Vesak Day,19/05/2008
-National Day,09/08/2008
-Hari Raya Puasa,01/10/2008
+holiday.name,date
+New Year Day,1/1/2008
+Chinese New Year,7/2/2008
+Chinese New Year,8/2/2008
+Good Friday,21/3/2008
+Labour Day,1/5/2008
+Vesak Day,19/5/2008
+National Day,9/8/2008
+Hari Raya Puasa,1/10/2008
 Deepavali,27/10/2008
-Hari Raya Haji,08/12/2008
+Hari Raya Haji,8/12/2008
 Christmas Day,25/12/2008
-New Year Day,01/01/2009
-Chinese New Year,26/01/2009
-Chinese New Year,27/01/2009
-Good Friday,10/04/2009
-Labour Day,01/05/2009
-Vesak Day,09/05/2009
-National Day,09/08/2009
-Hari Raya Puasa,20/09/2009
+New Year Day,1/1/2009
+Chinese New Year,26/1/2009
+Chinese New Year,27/1/2009
+Good Friday,10/4/2009
+Labour Day,1/5/2009
+Vesak Day,9/5/2009
+National Day,9/8/2009
+Hari Raya Puasa,20/9/2009
 Deepavali,17/10/2009
 Hari Raya Haji,27/11/2009
 Christmas Day,25/12/2009
-New Year Day,01/01/2010
-Chinese New Year,14/02/2010
-Chinese New Year,15/02/2010
-Good Friday,02/04/2010
-Labour Day,01/05/2010
-Vesak Day,28/05/2010
-National Day,09/08/2010
-Hari Raya Puasa,10/09/2010
-Deepavali,05/11/2010
+New Year Day,1/1/2010
+Chinese New Year,14/2/2010
+Chinese New Year,15/2/2010
+Good Friday,2/4/2010
+Labour Day,1/5/2010
+Vesak Day,28/5/2010
+National Day,9/8/2010
+Hari Raya Puasa,10/9/2010
+Deepavali,5/11/2010
 Hari Raya Haji,17/11/2010
 Christmas Day,25/12/2010
-New Year Day,01/01/2011
-Chinese New Year,03/02/2011
-Chinese New Year,04/02/2011
-Good Friday,22/04/2011
-Labour Day,01/05/2011
-Vesak Day,17/05/2011
-National Day,09/08/2011
-Hari Raya Puasa,30/08/2011
+New Year Day,1/1/2011
+Chinese New Year,3/2/2011
+Chinese New Year,4/2/2011
+Good Friday,22/4/2011
+Labour Day,1/5/2011
+Polling Day_Parliamentary General Election,7/5/2011
+Vesak Day,17/5/2011
+National Day,9/8/2011
+Polling Day_Presidential Election,27/8/2011
+Hari Raya Puasa,30/8/2011
 Deepavali,26/10/2011
-Hari Raya Haji,06/11/2011
+Hari Raya Haji,6/11/2011
 Christmas Day,25/12/2011
-New Year Day,01/01/2012
-Chinese New Year,23/01/2012
-Chinese New Year,24/01/2012
-Good Friday,06/04/2012
-Labour Day,01/05/2012
-Vesak Day,05/05/2012
-National Day,09/08/2012
-Hari Raya Puasa,19/08/2012
+New Year Day,1/1/2012
+Chinese New Year,23/1/2012
+Chinese New Year,24/1/2012
+Good Friday,6/4/2012
+Labour Day,1/5/2012
+Vesak Day,5/5/2012
+National Day,9/8/2012
+Hari Raya Puasa,19/8/2012
 Hari Raya Haji,26/10/2012
 Deepavali,13/11/2012
 Christmas Day,25/12/2012
-New Year Day,01/01/2013
-Chinese New Year,10/02/2013
-Chinese New Year,11/02/2013
-Good Friday,29/03/2013
-Labour Day,01/05/2013
-Vesak Day,24/05/2013
-Hari Raya Puasa,08/08/2013
-National Day,09/08/2013
+New Year Day,1/1/2013
+Chinese New Year,10/2/2013
+Chinese New Year,11/2/2013
+Good Friday,29/3/2013
+Labour Day,1/5/2013
+Vesak Day,24/5/2013
+Hari Raya Puasa,8/8/2013
+National Day,9/8/2013
 Hari Raya Haji,15/10/2013
-Deepavali,02/11/2013
+Deepavali,2/11/2013
 Christmas Day,25/12/2013
-New Year Day,01/01/2014
-Chinese New Year,31/01/2014
-Chinese New Year,01/02/2014
-Good Friday,18/04/2014
-Labour Day,01/05/2014
-Vesak Day,13/05/2014
-Hari Raya Puasa,28/07/2014
-National Day,09/08/2014
-Hari Raya Haji,05/10/2014
+New Year Day,1/1/2014
+Chinese New Year,31/1/2014
+Chinese New Year,1/2/2014
+Good Friday,18/4/2014
+Labour Day,1/5/2014
+Vesak Day,13/5/2014
+Hari Raya Puasa,28/7/2014
+National Day,9/8/2014
+Hari Raya Haji,5/10/2014
 Deepavali,22/10/2014
 Christmas Day,25/12/2014
-New Year Day,01/01/2015
-Chinese New Year,19/02/2015
-Chinese New Year,20/02/2015
-Good Friday,03/04/2015
-Labour Day,01/05/2015
-Vesak Day,01/06/2015
-Hari Raya Puasa,17/07/2015
-SG50 Holiday,07/08/2015
-National Day,09/08/2015
-Hari Raya Haji,24/09/2015
+New Year Day,1/1/2015
+Chinese New Year,19/2/2015
+Chinese New Year,20/2/2015
+Good Friday,3/4/2015
+Labour Day,1/5/2015
+Vesak Day,1/6/2015
+Hari Raya Puasa,17/7/2015
+SG50 Public Holiday,7/8/2015
+National Day,9/8/2015
+Polling Day_Parliamentary General Election,11/9/2015
+Hari Raya Haji,24/9/2015
 Deepavali,10/11/2015
 Christmas Day,25/12/2015
-New Year Day,01/01/2016
-Chinese New Year,08/02/2016
-Chinese New Year,09/02/2016
-Good Friday,25/03/2016
-Labour Day,01/05/2016
-Vesak Day,21/05/2016
-Hari Raya Puasa,06/07/2016
-National Day,09/08/2016
-Hari Raya Haji,12/09/2016
+New Year Day,1/1/2016
+Chinese New Year,8/2/2016
+Chinese New Year,9/2/2016
+Good Friday,25/3/2016
+Labour Day,1/5/2016
+Vesak Day,21/5/2016
+Hari Raya Puasa,6/7/2016
+National Day,9/8/2016
+Hari Raya Haji,12/9/2016
 Deepavali,29/10/2016
 Christmas Day,25/12/2016
-New Year Day,01/01/2017
-Chinese New Year,28/01/2017
-Chinese New Year,29/01/2017
-Good Friday,14/04/2017
-Labour Day,01/05/2017
-Vesak Day,10/05/2017
-Hari Raya Puasa,25/06/2017
-National Day,09/08/2017
-Hari Raya Haji,01/09/2017
+New Year Day,1/1/2017
+Chinese New Year,28/1/2017
+Chinese New Year,29/1/2017
+Good Friday,14/4/2017
+Labour Day,1/5/2017
+Vesak Day,10/5/2017
+Hari Raya Puasa,25/6/2017
+National Day,9/8/2017
+Hari Raya Haji,1/9/2017
 Deepavali,18/10/2017
 Christmas Day,25/12/2017
-New Year Day,01/01/2018
-Chinese New Year,16/02/2018
-Chinese New Year,17/02/2018
-Good Friday,30/03/2018
-Labour Day,01/05/2018
-Vesak Day,29/05/2018
-Hari Raya Puasa,15/06/2018
-National Day,09/08/2018
-Hari Raya Haji,22/08/2018
-Deepavali,06/11/2018
+New Year Day,1/1/2018
+Chinese New Year,16/2/2018
+Chinese New Year,17/2/2018
+Good Friday,30/3/2018
+Labour Day,1/5/2018
+Vesak Day,29/5/2018
+Hari Raya Puasa,15/6/2018
+National Day,9/8/2018
+Hari Raya Haji,22/8/2018
+Deepavali,6/11/2018
 Christmas Day,25/12/2018
-New Year Day,01/01/2019
-Chinese New Year,05/02/2019
-Chinese New Year,06/02/2019
-Good Friday,19/04/2019
-Labour Day,01/05/2019
-Vesak Day,19/05/2019
-Hari Raya Puasa,05/06/2019
-National Day,09/08/2019
-Hari Raya Haji,11/08/2019
+New Year Day,1/1/2019
+Chinese New Year,5/2/2019
+Chinese New Year,6/2/2019
+Good Friday,19/4/2019
+Labour Day,1/5/2019
+Vesak Day,19/5/2019
+Hari Raya Puasa,5/6/2019
+National Day,9/8/2019
+Hari Raya Haji,11/8/2019
 Deepavali,27/10/2019
 Christmas Day,25/12/2019
-New Year Day,01/01/2020
-Chinese New Year,25/01/2020
-Chinese New Year,26/01/2020
-Good Friday,10/04/2020
-Labour Day,01/05/2020
-Vesak Day,07/05/2020
-Hari Raya Puasa,24/05/2020
-Hari Raya Haji,31/07/2020
-National Day,09/08/2020
+New Year Day,1/1/2020
+Chinese New Year,25/1/2020
+Chinese New Year,26/1/2020
+Good Friday,10/4/2020
+Labour Day,1/5/2020
+Vesak Day,7/5/2020
+Hari Raya Puasa,24/5/2020
+Polling Day_Parliamentary General Election,10/7/2020
+Hari Raya Haji,31/7/2020
+National Day,9/8/2020
 Deepavali,14/11/2020
 Christmas Day,25/12/2020
-New Year Day,01/01/2021
-Chinese New Year,12/02/2021
-Chinese New Year,13/02/2021
-Good Friday,02/04/2021
-Labour Day,01/05/2021
-Hari Raya Puasa,13/05/2021
-Vesak Day,26/05/2021
-Hari Raya Haji,20/07/2021
-National Day,09/08/2021
-Deepavali,04/11/2021
+New Year Day,1/1/2021
+Chinese New Year,12/2/2021
+Chinese New Year,13/2/2021
+Good Friday,2/4/2021
+Labour Day,1/5/2021
+Hari Raya Puasa,13/5/2021
+Vesak Day,26/5/2021
+Hari Raya Haji,20/7/2021
+National Day,9/8/2021
+Deepavali,4/11/2021
 Christmas Day,25/12/2021
+New Year Day,1/1/2022
+Chinese New Year,1/2/2022
+Chinese New Year,2/2/2022
+Good Friday,15/4/2022
+Labour Day,1/5/2022
+Hari Raya Puasa,2/5/2022
+Vesak Day,15/5/2022
+Hari Raya Haji,9/7/2022
+National Day,9/8/2022
+Deepavali,24/10/2022
+Christmas Day,25/12/2022
