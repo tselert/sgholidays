@@ -9,6 +9,7 @@ A data.table with 2 variables:
 \describe{
 \item{holiday.name}{chr Name of public holiday}
 \item{date}{Date Date of gazetted public holiday}
+\item{wkday}{Ord.factor Day of week, abbreviated}
 }
 }
 \source{
@@ -20,8 +21,8 @@ A data.table with 2 variables:
 sgph
 }
 \description{
-This dataset contains all the dates of gazetted public holidays (PH) in Singapore since 2008.
-It will be updated annually as per the official website of the Ministry of Manpower Singapore.
+This dataset contains all the dates of gazetted public holidays (PH) in Singapore since 2008. It also contains dates of off-in-lieu (see Note on OIL below).
+This dataset will be updated annually as per the official website of the Ministry of Manpower Singapore.
 }
 \details{
 Since Aug 1968, Singaporeans enjoy 11 gazetted public holidays:
@@ -47,7 +48,6 @@ SG50 Public Holiday was declared a special holiday on 7 August 2015 to mark the 
 Fun fact: Singapore scrapped a few holidays in August 1968 to improve productivity.
 
 Note on Off-in-lieu (OIL):
-This dataset does not contain dates of OIL. Function is in development.
 
 If the gazetted PH falls on a Sunday, the following working day will be the 'OIL' by default.
 

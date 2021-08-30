@@ -1,19 +1,19 @@
 #' Data of Public Holidays in Singapore 
 #'
-#' This dataset contains all the dates of gazetted public holidays (PH) in Singapore since 2008. 
-#' It will be updated annually as per the official website of the Ministry of Manpower Singapore.  
+#'This dataset contains all the dates of gazetted public holidays (PH) in Singapore since 2008. It also contains dates of off-in-lieu (see Note on OIL below).
+#'This dataset will be updated annually as per the official website of the Ministry of Manpower Singapore.
 #' 
 #' Since Aug 1968, Singaporeans enjoy 11 gazetted public holidays:  
-#'  1. New Year Day (1d)  
-#'  2. Chinese New Year (2d)   
-#'  3. Good Friday (1d) 
-#'  4. Labour Day (1d) 
-#'  5. Hari Raya Puasa (1d) 
-#'  6. Vesak Day (1d) 
+#'  1. New Year Day (1d)
+#'  2. Chinese New Year (2d)
+#'  3. Good Friday (1d)
+#'  4. Labour Day (1d)
+#'  5. Hari Raya Puasa (1d)
+#'  6. Vesak Day (1d)
 #'  7. National Day (1d)
-#'  8. Hari Raya Haji (1d) 
-#'  9. Deepavali (1d) 
-#' 10. Christmas Day (1d)
+#'  8. Hari Raya Haji (1d)
+#'  9. Deepavali (1d)
+#'  10. Christmas Day (1d)
 #' 
 #' In addition, Polling Day is also a public holiday for Presidential Election and 
 #' General Elections (not including by-elections)
@@ -25,7 +25,6 @@
 #' 
 #' 
 #' Note on Off-in-lieu (OIL):
-#' This dataset does not contain dates of OIL. Function is in development.  
 #' 
 #' If the gazetted PH falls on a Sunday, the following working day will be the 'OIL' by default.  
 #' 
@@ -38,6 +37,7 @@
 #' \describe{
 #'   \item{holiday.name}{chr Name of public holiday}
 #'   \item{date}{Date Date of gazetted public holiday}
+#'   \item{wkday}{Ord.factor Day of week, abbreviated}
 #' }
 #' 
 #' @source 
