@@ -2,5 +2,7 @@
 
 export("%>%")
 export(is.ph)
+export(is.workday)
+importFrom(lubridate,wday)
 importFrom(magrittr,"%>%")
 importFrom(tibble,tibble)

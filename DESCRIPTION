@@ -16,4 +16,7 @@ RoxygenNote: 7.1.1
 Depends: R (>= 4.1.0)
 Imports: 
     magrittr,
-    tibble
+    tibble, 
+    lubridate
+Suggests: 
+    dplyr
